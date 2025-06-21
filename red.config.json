@@ -1,0 +1,15 @@
+{
+  "name": "PawPunk",
+  "version": "0.0.1",
+  "license": false,
+  "game": "D:\\GAMES\\Cyberpunk 2077",
+  "stage": "data\\stage",
+  "scripts": {
+    "redscript": {
+      "debounceTime": 3000,
+      "src": "src\\PawPunk\\r6\\scripts\\",
+      "output": "r6\\scripts\\"
+    }
+  }
+}
+
