@@ -1,11 +1,11 @@
 module PawPunk.Test
-import PawPunk.*
+import PawPunk.Funcs.*
 
 class AnObj extends IScriptable{
     public let value: String;
 }
 
-fun Test(){
+func Test(){
     let anobj = new AnObj();
     anobj.value = "aval";
     let serial = SerializeObject(anobj);
