@@ -3,8 +3,6 @@ module PawPunk.Funcs
 import RedData.Json.*
 import RedFileSystem.*
 
-
-
 public func SerializeObject(obj: ref<IScriptable>) -> String {
     return ToJson(obj).ToString("\t");
 }
@@ -47,3 +45,4 @@ public func RaiseForStatus(status: FileSystemStatus) -> Void {
         Log("File/Directory is present.");
     }
 }
+
