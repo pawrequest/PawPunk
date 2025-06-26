@@ -1,0 +1,4 @@
+source_roots = [".", "D:/GAMES/Cyberpunk 2077/r6/scripts/"]
+[format]
+indent = 2
+max_width = 140

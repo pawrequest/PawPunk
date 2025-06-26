@@ -9,5 +9,8 @@ func Test(){
     let anobj = new AnObj();
     anobj.value = "aval";
     let serial = SerializeObject(anobj);
-    Log(serial);
 }
+
+func Generic<A>() {}
+
+
