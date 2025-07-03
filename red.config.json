@@ -7,7 +7,7 @@
   "scripts": {
     "redscript": {
       "debounceTime": 3000,
-      "src": "src\\PawPunk\\r6\\scripts\\",
+      "src": "src\\r6\\scripts\\",
       "output": "r6\\scripts\\"
     }
   }
