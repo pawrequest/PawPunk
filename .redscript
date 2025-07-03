@@ -1,4 +1,5 @@
-source_roots = [".", "D:/GAMES/Cyberpunk 2077/r6/scripts/"]
+boots = ["r6/scripts/PawPunk", "../PawPunkLlm/src/PawPunkLlm/r6/scripts", "D:/GAMES/Cyberpunk 2077/r6/scripts"]
+source_roots = ["r6\\scripts\\PawPunk\\"]
 [format]
 indent = 2
 max_width = 140
